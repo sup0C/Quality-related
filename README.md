@@ -1,4 +1,4 @@
-# a-repository-for-...
+# a-repository-for-quality
 
 ## intro
 
